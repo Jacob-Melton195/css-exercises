@@ -1,0 +1,14 @@
+.both-elements {
+    font-size: 28px;
+    font: "helvetica", "times new roman", "sans-serif"
+}
+
+#click-me {
+    background-color: black;
+    color: white;
+}
+
+#no-click-me {
+    background-color: yellow;
+    color: black;
+}
